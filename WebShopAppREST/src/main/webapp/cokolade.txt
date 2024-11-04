@@ -1,0 +1,5 @@
+1;false;Proizvod1;Opis proizvoda 1;true;1;1;100.5;250.75;10;/path/to/proizvod1
+2;true;Proizvod2;Opis proizvoda 2;false;1;1;200.0;500.0;5;/path/to/proizvod2
+3;false;Proizvod3;Opis proizvoda 3;true;1;1;150.25;300.5;20;/path/to/proizvod3
+4;true;Proizvod4;Opis proizvoda 4;false;1;FAB004;250.75;750.25;15;/path/to/proizvod4
+5;false;Proizvod5;Opis proizvoda 5;true;2;FAB005;350.5;1000.0;25;/path/to/proizvod5

@@ -1,0 +1,2 @@
+1;false;John;Doe;johndoe;password;Kupac
+2;true;Jane;Smith;janesmith;pass123;Kupac

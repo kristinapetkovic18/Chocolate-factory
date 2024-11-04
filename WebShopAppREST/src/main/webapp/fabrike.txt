@@ -1,0 +1,5 @@
+1;false;John;true;New York;4.5;08:00;17:00;profile_pic1.jpg
+2;true;Alice;false;Los Angeles;4.2;09:00;18:00;profile_pic2.jpg
+3;false;Bob;true;Chicago;4.8;07:30;16:30;profile_pic3.jpg
+4;true;Emily;true;San Francisco;4.7;08:30;17:30;profile_pic4.jpg
+5;false;Michael;false;Miami;4.6;08:15;17:15;profile_pic5.jpg
