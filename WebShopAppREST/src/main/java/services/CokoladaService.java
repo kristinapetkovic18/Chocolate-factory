@@ -103,10 +103,5 @@ public class CokoladaService {
 		CokoladaDAO dao = (CokoladaDAO) ctx.getAttribute("cokoladaDAO");
 		return dao.save(product);
 	}
-	
-	/*Radnicima je dostupna funkcionalnost izmene broja količine određene čokolade u
-fabrici u kojoj je zaposlen. Radniku omogućiti da se klikom na neku čokoladu iz njegove
-fabrike, pojavi opcija “Izmeni količinu”. Nakon izmene količine, ta izmena je odmah
-vidljiva i čokolade su dostupne korisnicima za kupovinu.*/
 
 }

@@ -83,9 +83,6 @@ public class FabrikaService {
 		return fabrikaDTO;
 	}
 	
-	//search searchFabrike za sve kriterijume osim cokolade; ako trazis po imenu cokolade onda pozovi prvo cokoladaDAO
-	//da nadjes koji fabrikaId dobijes tako, i onda nappravi kolekciju pronadjenih fabrika
-
 	//// http://localhost:8081/WebShopAppREST/rest/fabrika/add
 	
 	@POST

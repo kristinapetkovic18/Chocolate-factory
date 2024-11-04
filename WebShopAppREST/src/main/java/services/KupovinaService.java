@@ -94,11 +94,7 @@ public class KupovinaService {
 	}
 
 
-	/*Kupac ima opciju da otkaže kupovinu dok je ona u statusu Obrada. Ako se odustane od
-kupovine gubi se broj bodova po sledećoj formuli:
-broj_izgubljenih_bodova = ukupna_cena_porudžbine/1000 * 133 * 4
-
-.*/
+	
 	
 	@POST
 	@Path("/otkazi/{id}")
